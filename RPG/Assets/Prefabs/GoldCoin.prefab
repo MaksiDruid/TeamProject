@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ec919a417b590d40982837e050c8128, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  coinCost: 10
+  coinCost: 2
   coinSound: {fileID: 8300000, guid: da8f1b561e68cf247a44cea7833632e2, type: 3}
 --- !u!65 &185227111837075971
 BoxCollider:
